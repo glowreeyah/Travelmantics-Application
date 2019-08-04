@@ -1,0 +1,4 @@
+#Mon Aug 05 00:08:49 WAT 2019
+base.0=C\:\\Users\\USER\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
